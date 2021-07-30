@@ -1,0 +1,16 @@
+{
+    "short_name": "simple cal",
+    "name": "simple calculator",
+    "icons": [
+        {
+            "src": "/images/pwa-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/images/pwa-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
